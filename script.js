@@ -1,4 +1,5 @@
 let string = "";
+// QUery Selector For Buttons
 let buttons = document.querySelectorAll('.button')
 // loooping over buttons 
 Array.from(buttons).forEach((button) => {
